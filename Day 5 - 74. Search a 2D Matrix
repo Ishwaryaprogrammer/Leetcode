@@ -1,0 +1,10 @@
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        for(int[] r:matrix){
+            int pos=Arrays.binarySearch(r,target);
+            if (pos>-1){
+                return true;
+            }
+        }return false;
+    }
+}
