@@ -9,6 +9,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
