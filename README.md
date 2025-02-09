@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
