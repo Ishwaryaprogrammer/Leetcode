@@ -8,22 +8,19 @@ class ParkingSystem {
     
     public boolean addCar(int carType) {
         if(carType==1){
-            if(b>0){
-                b--;
+            if(b-->0){
                 return true;
             }else{
                 return false;
             }
         }else if(carType==2){
-            if(m>0){
-                m--;
+            if(m-->0){
                 return true;
             }else{
                 return false;
             }
         }else{
-            if(s>0){
-                s--;
+            if(s-->0){
                 return true;
             }else{
                 return false;
