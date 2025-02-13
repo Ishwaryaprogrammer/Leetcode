@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
 ## Stack
 |  |
 | ------- |
