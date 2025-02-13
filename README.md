@@ -17,6 +17,7 @@
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
