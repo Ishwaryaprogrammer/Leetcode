@@ -35,6 +35,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
