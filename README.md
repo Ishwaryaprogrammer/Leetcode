@@ -51,6 +51,7 @@
 | [0006-zigzag-conversion](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -104,6 +105,7 @@
 | [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
