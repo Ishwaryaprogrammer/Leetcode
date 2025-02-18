@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Greedy
 |  |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
