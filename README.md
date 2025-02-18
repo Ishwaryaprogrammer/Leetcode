@@ -46,6 +46,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -92,6 +93,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
