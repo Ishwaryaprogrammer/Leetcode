@@ -17,6 +17,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Stack
 |  |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
