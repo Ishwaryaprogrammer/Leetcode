@@ -18,6 +18,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -69,6 +70,7 @@
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
 ## Graph
 |  |
 | ------- |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
