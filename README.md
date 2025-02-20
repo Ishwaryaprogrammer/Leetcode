@@ -176,6 +176,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
