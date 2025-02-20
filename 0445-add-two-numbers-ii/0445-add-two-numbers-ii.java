@@ -48,7 +48,7 @@ class Solution {
             ref.next=newNode;
             ref=ref.next;
         }
-        ListNode res=rev(dummy.next);
-        return res;
+        
+        return rev(dummy.next);
     }
 }
