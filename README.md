@@ -44,6 +44,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -181,6 +182,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
