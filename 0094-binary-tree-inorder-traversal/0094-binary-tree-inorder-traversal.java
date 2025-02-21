@@ -14,16 +14,25 @@
  * }
  */
 class Solution {
-    public void inorder(TreeNode root, List l1){
-        if(root==null)return;
-        inorder(root.left,l1);
-        l1.add(root.val);
-        inorder(root.right,l1);
-    }
     
+    public List<Integer> inorder(TreeNode root, List<Integer> list){
+        if(root == null)return list;
+
+        inorder(root.left,list);
+        list.add(root.val);
+        inorder(root.right,list);
+
+        return list;
+    }
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> l1=new ArrayList<>();
-        inorder(root,l1);
-        return l1;
+       List<Integer> list = new ArrayList<Integer>();
+       return inorder(root,list);
+
     }
 }
+
+/*
+*** Inorder Traversal of the binary tree
+**rem : - binarya tree child can be only (Null , 1 or 2)
+**Traversal :- Inorder Left Root Right
+ */
