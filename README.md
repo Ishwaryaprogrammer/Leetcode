@@ -66,6 +66,7 @@
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
