@@ -73,6 +73,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Design
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Greedy
 |  |
