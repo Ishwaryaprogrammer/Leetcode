@@ -29,6 +29,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
+| [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Graph
 |  |
 | ------- |
