@@ -4,13 +4,7 @@ class Solution {
         for(char ch:s.toCharArray()){
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        int val=map.get(s.charAt(0));
-        for(int i:map.values()){
-
-            if(i!=val){
-                return false;
-            }
-        }
-        return true;
+        HashSet set=new HashSet(map.values());
+        return set.size()==1;
     }
 }
