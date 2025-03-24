@@ -76,6 +76,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Design
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -139,6 +141,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
