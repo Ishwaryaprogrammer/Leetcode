@@ -55,6 +55,7 @@
 | [0002-add-two-numbers](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1448-maximum-69-number) |
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
