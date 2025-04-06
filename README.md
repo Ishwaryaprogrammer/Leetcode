@@ -34,6 +34,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
@@ -63,6 +64,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Greedy
 |  |
 | ------- |
