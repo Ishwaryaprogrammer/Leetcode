@@ -31,6 +31,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -291,4 +292,5 @@
 | [1839-decode-xored-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 <!---LeetCode Topics End-->
