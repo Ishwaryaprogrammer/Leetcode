@@ -259,6 +259,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0226-invert-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0226-invert-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
