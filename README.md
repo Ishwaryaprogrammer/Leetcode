@@ -16,6 +16,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -86,6 +87,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
+| [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
