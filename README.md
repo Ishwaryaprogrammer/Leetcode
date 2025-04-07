@@ -97,6 +97,7 @@
 | [2502-sort-the-people](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
