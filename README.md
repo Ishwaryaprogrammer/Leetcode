@@ -99,6 +99,7 @@
 | [2406-decode-the-message](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3811-reverse-degree-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
