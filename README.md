@@ -43,6 +43,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3533-snake-in-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -106,6 +107,7 @@
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3533-snake-in-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
@@ -128,6 +130,7 @@
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
+| [3533-snake-in-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3533-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Counting
 |  |
