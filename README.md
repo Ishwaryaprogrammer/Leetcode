@@ -17,6 +17,7 @@
 | [0733-flood-fill](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0898-transpose-matrix) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
@@ -55,6 +56,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -246,6 +248,7 @@
 | ------- |
 | [0733-flood-fill](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Linked List
