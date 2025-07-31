@@ -117,6 +117,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
 ## Simulation
 |  |
@@ -215,6 +216,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -234,6 +236,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
