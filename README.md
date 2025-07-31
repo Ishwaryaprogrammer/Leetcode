@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0733-flood-fill) |
@@ -158,6 +159,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
