@@ -72,6 +72,7 @@
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -345,4 +346,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
