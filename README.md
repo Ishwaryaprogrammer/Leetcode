@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0059-spiral-matrix-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0898-transpose-matrix) |
@@ -247,6 +249,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0733-flood-fill](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0898-transpose-matrix) |
