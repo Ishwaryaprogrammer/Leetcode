@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0733-flood-fill) |
@@ -59,6 +60,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -162,6 +164,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -190,6 +194,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
