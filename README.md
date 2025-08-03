@@ -35,6 +35,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -115,6 +116,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2406-decode-the-message](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -365,4 +367,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
