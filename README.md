@@ -110,6 +110,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
@@ -211,6 +212,7 @@
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
