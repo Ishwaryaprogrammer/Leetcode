@@ -28,6 +28,7 @@
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -117,6 +118,7 @@
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -214,6 +217,7 @@
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -362,6 +366,7 @@
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0461-hamming-distance) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
