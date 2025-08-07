@@ -24,6 +24,7 @@
 | [1241-decompress-run-length-encoded-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -228,6 +230,7 @@
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -399,4 +402,8 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
