@@ -114,6 +114,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
