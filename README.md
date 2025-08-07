@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
@@ -106,6 +107,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0268-missing-number) |
