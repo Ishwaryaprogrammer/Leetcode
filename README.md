@@ -127,6 +127,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2128-reverse-prefix-of-word](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -190,6 +191,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2128-reverse-prefix-of-word](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -261,6 +263,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
