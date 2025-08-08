@@ -50,6 +50,7 @@
 | [2502-sort-the-people](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2714-left-and-right-sum-differences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3194-find-words-containing-character](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -410,4 +411,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
