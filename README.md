@@ -40,6 +40,7 @@
 | [2048-build-array-from-permutation](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -132,6 +133,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -161,6 +163,7 @@
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
