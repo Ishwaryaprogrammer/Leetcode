@@ -26,6 +26,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1677-matrix-diagonal-sum) |
