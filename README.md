@@ -122,6 +122,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
@@ -160,6 +161,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1708-design-parking-system) |
@@ -200,6 +202,7 @@
 | [0283-move-zeroes](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -270,6 +273,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1720-crawler-log-folder) |
