@@ -17,10 +17,8 @@ class Solution {
             }
         }
         if(s1.isEmpty() && s2.isEmpty()){return true;}
-        if(s1.toString().equals(s2.toString())){
-            return true;
-        }else{
-          return false;
-        }   
+        return (s1.toString().equals(s2.toString()));
+           
+          
     }
 }
