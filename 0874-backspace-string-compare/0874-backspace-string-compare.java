@@ -17,7 +17,12 @@ class Solution {
             }
         }
         if(s1.isEmpty() && s2.isEmpty()){return true;}
-        return (s1.toString().equals(s2.toString()));
+        while(!s1.isEmpty() && !s2.isEmpty()){
+            if(s1.pop()!=s2.pop()){
+                return false;
+            }
+        }
+        return s1.isEmpty() && s2.isEmpty();
            
           
     }
