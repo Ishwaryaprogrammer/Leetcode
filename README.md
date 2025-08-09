@@ -30,6 +30,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1720-crawler-log-folder](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -126,6 +127,7 @@
 | [1156-occurrences-after-bigram](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1651-shuffle-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -270,6 +272,7 @@
 | [0682-baseball-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
