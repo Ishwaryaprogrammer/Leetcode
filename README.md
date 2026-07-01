@@ -49,6 +49,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2502-sort-the-people) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -171,6 +172,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2886-faulty-keyboard) |
@@ -303,6 +305,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/Ishwaryaprogrammer/Leetcode/tree/master/3226-minimum-number-game) |
